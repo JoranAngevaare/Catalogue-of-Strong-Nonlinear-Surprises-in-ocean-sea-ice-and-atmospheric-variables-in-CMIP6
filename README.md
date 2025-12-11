@@ -6,7 +6,7 @@ This repository contains the (preliminary) work to catalogue strong nonlinear su
 These include:
 | domain | Status | Citation |
 | ---- | ---- | ---- |
-| Ocean, sea-ice, and atmospheric variables in CMIP6 | in [Earth System Dynamics (ESD)](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2039) | ```Angevaare, J. R. and Drijfhout, S. S.: Catalogue of Strong Nonlinear Surprises in ocean, sea-ice, and atmospheric variables in CMIP6, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-2039, 2025. ```|
+| Ocean, sea-ice, and atmospheric variables in CMIP6 | Under review [Earth System Dynamics (ESD)](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2039) | ```Angevaare, J. R. and Drijfhout, S. S.: Catalogue of Strong Nonlinear Surprises in ocean, sea-ice, and atmospheric variables in CMIP6, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-2039, 2025. ```|
 | Land-ocean biogeochemistry | Manuscript preparation phase | N/A |
 
 Please see the individual subfolders for the README and explanation of the content.
